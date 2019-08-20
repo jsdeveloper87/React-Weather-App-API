@@ -1,0 +1,63 @@
+body {
+  background: url("http://img.brothersoft.com/screenshots/softimage/e/earth_weather_desktop-490177-1333011787.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#weather-display {
+  height: 500px;
+  width: 1000px;
+  margin: auto;
+  border-radius: 20px;
+  font-size: 25px;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  font-family: "quicksand";
+  margin-top: 50px;
+}
+
+#intro {
+  margin-left: 120px;
+  padding-top: 50px;
+}
+
+#weather {
+  margin-left: 330px;
+  padding-top: 30px;
+}
+
+#temp {
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+#temp-min {
+  margin-left: 480px;
+  margin-top: -40px;
+}
+
+#temp-max {
+  margin-left: 750px;
+  margin-top: -40px;
+}
+
+#pressure {
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+#humidity {
+  margin-left: 480px;
+  margin-top: -43px;
+}
+
+#sea-level {
+  margin-left: 750px;
+  margin-top: -40px;
+}
+
+#change {
+  margin-left: 422px;
+  margin-top: 70px;
+  border-radius: 5px;
+}
